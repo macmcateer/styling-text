@@ -41,8 +41,7 @@ figcaption {
 }
 
 a {
-    text-decoration: underline;
-    
+    text-decoration: underline;   
 }
 
 a:hover {
@@ -50,8 +49,9 @@ a:hover {
     color: #ff3530;
 }
 
-.author {
-    margin-bottom: 0;
+.author,
+time {
+    margin-bottom: 0.85rem;
 }
 
 figure {
